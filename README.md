@@ -20,3 +20,5 @@ source: source#src_acs
 --------------
 ERROR: ✗ getting latest version: URL "https://nexus.alfresco.com/nexus/repository/%3Cno%20value%3E/%3Cno%20value%3E/%3Cno%20value%3E/maven-metadata.xml" not found or in error
 ```
+
+Have a succesfully run by dropping the `-v updatecli_values.yaml` and uncommenting the last line in `artifacts-23.yaml`
